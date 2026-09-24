@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shreyaajainn4/REPO_NAME/main/banner.jpg" alt="banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/shreyaajainn4/shreyaajainn4/main/banner.jpg" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shreya Jain</h1>
