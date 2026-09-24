@@ -10,6 +10,17 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shreyaajainn4/REPO_NAME/main/banner.jpg" alt="banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Shreya Jain</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF69B4&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Enthusiast;DSA+Learner;Tech+Explorer+🚀" />
+</p>
+
+
 ## 🚀 About Me
 
 * 🎓 B.Tech CSE Student (GLA University, Mathura)
